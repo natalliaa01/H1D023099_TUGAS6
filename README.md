@@ -2,7 +2,7 @@
 
 ## Data Diri
 -   **Nama:** `Natalia Nidya Fidelia`
--   **NIM:** H1D023099
+-   **NIM:** `H1D023099`
 -   **Shift Baru:** `E`
 -   **Shift Asal:** `B`
 
@@ -36,3 +36,11 @@ lib/
  └─ ui/
      ├─ form_data.dart       // Halaman form input data
      └─ tampil_data.dart     // Halaman tampilan perkenalan / hasil
+```
+
+---
+
+## Screenshot Aplikasi
+
+<img width="216" height="480" alt="Image" src="https://github.com/user-attachments/assets/530bd548-16a2-4a1c-bcc6-43fed4dea896" />
+<img width="216" height="480" alt="Image" src="https://github.com/user-attachments/assets/739e0727-63c5-4271-bf06-47fa9a54790d" />
