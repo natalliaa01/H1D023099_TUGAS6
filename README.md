@@ -12,8 +12,8 @@
 ## Deskripsi Aplikasi
 
 Aplikasi ini dibuat menggunakan **Flutter** untuk memenuhi Tugas 6 Pemrograman Mobile.  
-Fungsinya adalah:
 
+Fungsinya adalah:
 - Menerima input data mahasiswa berupa:
   - Nama
   - NIM
