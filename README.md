@@ -28,7 +28,7 @@ Umur dihitung secara otomatis dari:
 
 ---
 
-## Struktur Folder Utama (`lib`)
+## Struktur Folder Utama
 
 ```text
 lib/
